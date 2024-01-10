@@ -8,4 +8,3 @@
 
 4-Execute o arquivo com uma cronjob ou ./arquivo.sh
 
-Espero ter ajudado :)
