@@ -3,5 +3,5 @@
 1-Clone o repositório.
 2-Edite o arquivo .sh conforme seu projeto.
 3-Dê a permissão necessária com chmod u+x arquivo.sh
-4-Siga o tutorial do Notion 
-
+4-Teste o script localmente.
+5-Siga o tutorial do Notion.
